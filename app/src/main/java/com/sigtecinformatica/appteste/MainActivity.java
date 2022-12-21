@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.ListView;
 
+import com.sigtecinformatica.appteste.Adapter.PersonaAdapter;
 import com.sigtecinformatica.appteste.Model.Persona;
 import com.sigtecinformatica.appteste.Utils.PersonaService;
 

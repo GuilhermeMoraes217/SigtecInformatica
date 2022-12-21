@@ -1,4 +1,4 @@
-package com.sigtecinformatica.appteste;
+package com.sigtecinformatica.appteste.Adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -11,6 +11,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import com.sigtecinformatica.appteste.Model.Persona;
+import com.sigtecinformatica.appteste.R;
 
 import java.util.List;
 
